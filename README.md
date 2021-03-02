@@ -14,7 +14,7 @@
 
 ## Task #2
 
-    Add access control to the endpoint using Event Hooks in Python EVE
+    Add access control to all endpoints except "/authenticate" using Event Hooks in Python EVE
 
 ## We will grade the code on:
 
@@ -22,7 +22,7 @@
 - Code format PEP8, Pythonic
 - Project structure
 - Optimal use of the open source frameworks
-- Feel free to add more function or refactor any code to better show you skills
+- Feel free to add more functions or refactor any code to better show you skills
 
 ## Documentation
 
