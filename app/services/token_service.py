@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 import jwt
-from jwt import DecodeError, InvalidTokenError, ExpiredSignatureError, InvalidSignatureError
+from jwt import ExpiredSignatureError
 from flask import abort
 
 
