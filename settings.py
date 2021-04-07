@@ -1,6 +1,9 @@
 MONGO_URI = "mongodb://127.0.0.1:27017/visma_work_test"
 MONGO_DB = "visma_work_test"
 
+RESOURCE_METHODS = ['GET', 'POST']
+ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
+
 DOMAIN = {
     'secret_documents': {
         'item_title': 'Secret-Document',
