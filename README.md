@@ -20,6 +20,8 @@
 
 - Readability
 - Code format PEP8, Pythonic
+- Reuse of code
+- Recognize and program in patterns
 - Project structure
 - Optimal use of the open source frameworks
 - Feel free to add more functions or refactor any code to better show you skills
