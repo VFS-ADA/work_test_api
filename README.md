@@ -1,4 +1,4 @@
-# Visma Work Test API
+# Visma Amili - Work Test API
 
 ### Prerequisite (Ubuntu)
 
